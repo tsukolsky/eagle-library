@@ -11,7 +11,7 @@ cd $1
 mkdir oshpark_release
 cd oshpark_release
 cp ../*.cmp "Top Layer.ger"
-cp ../*.sol "Bottome Layer.ger"
+cp ../*.sol "Bottom Layer.ger"
 cp ../*.stc "Top Solder Mask.ger"
 cp ../*.sts "Bottom Solder Mask.ger"
 cp ../*.plc "Top Silk Screen.ger"
